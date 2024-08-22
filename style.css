@@ -49,6 +49,7 @@ body{
     #container{
         font-size: 10px;
         width:300px;
+        margin-bottom: 200px;
     }
     #msg{
         width:200px;
